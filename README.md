@@ -59,9 +59,3 @@
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
-
-<h4 align="center">
-  <a href="https://github.com/RudvanC?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-	
