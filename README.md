@@ -44,14 +44,11 @@
   </a>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RudvanC&theme=dark&hide_border=true"/>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Rudvan%20Castro%20Lopez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rudvan-castro-8b21b1354/"><img src="https://img.shields.io/badge/-Rudvan%20Castro%20Lopez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rudvancastro@gmail.com"><img src="https://img.shields.io/badge/RudvanC-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
