@@ -7,7 +7,7 @@
 <div align=center>
 
 [![Gmail](https://img.shields.io/badge/-gmail-446078?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rudvancastro@gmail.com)&nbsp;
-[![Linkedin](https://img.shields.io/badge/-linkedin-446078?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rudvancastro)&nbsp;
+[![Linkedin](https://img.shields.io/badge/-linkedin-446078?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rudvan-castro-8b21b1354/)&nbsp;
 [![Discord](https://img.shields.io/badge/-Discord-446078?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/984803810885120030)&nbsp; 
 
 </div>
