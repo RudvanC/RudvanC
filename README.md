@@ -14,9 +14,7 @@
 
 
 <br>
-Hey there!👋 Soy **Rudvan Castro**, desarrollador frontend apasionado por construir aplicaciones web modernas, accesibles y con una gran experiencia de usuario desde el primer clic. 🚀
-
-Mi camino comenzó con HTML, CSS y JavaScript puro, y con el tiempo fui ampliando mi stack para trabajar con tecnologías como React, Tailwind CSS, TypeScript, y herramientas modernas como Vite, Zustand, Vitest y más. También estoy explorando Astro, Next.js y Angular para expandir mis habilidades como desarrollador frontend moderno.
+Hola👋 Soy **Rudvan Castro**, desarrollador frontend apasionado por construir aplicaciones web modernas, accesibles y con una gran experiencia de usuario desde el primer clic. 🚀
 
 Actualmente estoy desarrollando una app de películas conectada a la API de TMDB con funcionalidades como favoritos, login con Google, temas claros/oscuros y un enfoque modular en componentes y rendimiento. También estoy arrancando una app para personas que entrenan en el gimnasio, que genera rutinas personalizadas según sus respuestas.
 
